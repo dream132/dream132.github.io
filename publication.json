@@ -1,0 +1,717 @@
+{
+    "name": "List of publication of Diptarama Hendrian",
+    "journal_papers": [
+        {
+            "authors": [
+                "Katsuhito Nakashima",
+                "Noriki Fujisato",
+                "Diptarama Hendrian",
+                "Yuto Nakashima",
+                "Ryo Yoshinaka",
+                "Shunsuke Inenaga",
+                "Hideo Bannai",
+                "Ayumi Shinohara",
+                "Masayuki Takeda"
+            ],
+            "title": "Parameterized DAWGs: Efficient constructions and bidirectional pattern searches",
+            "journal_name": "Theoretical Computer Science",
+            "journal_abbrv": "TCS",
+            "journal_link": "https://www.sciencedirect.com/journal/theoretical-computer-science/",
+            "volume": "933",
+            "pages": "21–42",
+            "year": "2022",
+            "paper_link": "https://doi.org/10.1016/j.tcs.2022.09.008",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2002.06786"
+        },
+        {
+            "authors": [
+                "Takuya Takagi",
+                "Shunsuke Inenaga",
+                "Hiroki Arimura",
+                "Dany Breslauer",
+                "Diptarama Hendrian"
+            ],
+            "title": "Fully-Online Suffix Tree and Directed Acyclic Word Graph Construction for Multiple Texts",
+            "journal_name": "Algorithmica",
+            "journal_link": "https://link.springer.com/journal/453",
+            "volume": "82",
+            "pages": "1346–1377",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.1007/s00453-019-00646-w",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1507.07622"
+        },
+        {
+            "authors": [
+                "Shintaro Narisada",
+                "Diptarama Hendrian",
+                "Kazuyuki Narisawa",
+                "Shunsuke Inenaga",
+                "Ayumi Shinohara"
+            ],
+            "title": "Efficient computation of longest single-arm-gapped palindromes in a string",
+            "journal_name": "Theoretical Computer Science",
+            "journal_abbrv": "TCS",
+            "journal_link": "https://www.sciencedirect.com/journal/theoretical-computer-science/",
+            "volume": "812",
+            "pages": "160–173",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.1016/j.tcs.2019.10.025",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1609.03000"
+        },
+        {
+            "authors": [
+                "Shintaro Narisada",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Linear-time online algorithm for inferring the shortest path graph from a walk label",
+            "journal_name": "Theoretical Computer Science",
+            "journal_abbrv": "TCS",
+            "journal_link": "https://www.sciencedirect.com/journal/theoretical-computer-science/",
+            "volume": "812",
+            "pages": "187–202",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.1016/j.tcs.2019.10.029",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1806.09806"
+        },
+        {
+            "authors": [
+                "Diptarama Hendrian",
+                "Yohei Ueki",
+                "Kazuyuki Narisawa",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Permuted Pattern Matching Algorithms on Multi-Track Strings",
+            "journal_name": "Algorithms",
+            "journal_link": "https://www.mdpi.com/journal/algorithms",
+            "volume": "12",
+            "number": "4",
+            "pages": "73:1–20",
+            "year": "2019",
+            "paper_link": "https://doi.org/10.3390/a12040073"
+        },
+        {
+            "authors": [
+                "Diptarama Hendrian",
+                "Shunsuke Inenaga",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Efficient dynamic dictionary matching with DAWGs and AC-automata",
+            "journal_name": "Theoretical Computer Science",
+            "journal_abbrv": "TCS",
+            "journal_link": "https://www.sciencedirect.com/journal/theoretical-computer-science/",
+            "volume": "792",
+            "pages": "161–172",
+            "year": "2019",
+            "paper_link": "https://doi.org/10.1016/j.tcs.2018.04.016",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1710.03395"
+        },
+        {
+            "authors": [
+                "Ichinari Sato",
+                "Diptarama",
+                "Kaizaburo Chubachi",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Analysis of laboratories electrical energy consumption by visualization for saving electrical energy",
+            "journal_name": "International Journal of Institutional Research and Management",
+            "journal_abbrv": "IJIRM",
+            "journal_link": "http://iaiai.org/publications/jlist/ijirm/",
+            "volume": "1",
+            "number": "1",
+            "pages": "53–66",
+            "year": "2017",
+            "paper_link": "http://www.iaiai.org/journals/index.php/IJIRM/article/view/113"
+        }
+    ],
+    "conference_papers": [
+        {
+            "authors": [
+                "Daiki Hashimoto",
+                "Diptarama Hendrian",
+                "Dominik Köppl",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Computing the Parameterized Burrows-Wheeler Transform Online",
+            "conference_name": "the 29th International Symposium on String Processing and Information Retrieval",
+            "conference_abbrv": "SPIRE 2022",
+            "conference_link": "http://spire2022.inf.udec.cl/",
+            "city": "Concepción",
+            "country": "Chile",
+            "date": "8–10 November",
+            "year": "2022",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2206.15100"
+        },
+        {
+            "authors": [
+                "Davaajav Jargalsaikhan",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Parallel Algorithm for Pattern Matching Problems Under Substring Consistent Equivalence Relations",
+            "conference_name": "the 33rd Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2022",
+            "conference_link": "https://www.stringology.org/event/CPM2022/",
+            "pages": "28:1–28:21",
+            "city": "Prague",
+            "country": "Czech Republic",
+            "date": "27–29 June",
+            "year": "2022",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2022.28",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2202.13284"
+        },
+        {
+            "authors": [
+                "Kaito Suzuki",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Query Learning Algorithm for Symbolic Weighted Finite Automata",
+            "conference_name": "the 15th International Conference on Grammatical Inference",
+            "conference_abbrv": "ICGI 2020/21",
+            "conference_link": "https://icgi2020.lis-lab.fr/",
+            "pages": "202–216",
+            "city": "Online",
+            "date": "23–27 August",
+            "year": "2021",
+            "paper_link": "https://proceedings.mlr.press/v153/suzuki21a.html"
+        },
+        {
+            "authors": [
+                "Natsumi Kikuchi",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Computing Covers under Substring Consistent Equivalence Relations",
+            "conference_name": "the 27th International Symposium on String Processing and Information Retrieval",
+            "conference_abbrv": "SPIRE 2020",
+            "conference_link": "https://www.cs.ucf.edu/spire2020/",
+            "pages": "131–146",
+            "city": "Orlando (online)",
+            "country": "USA",
+            "date": "13–15 October",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.1007/978-3-030-59212-7_10",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2002.06764"
+        },
+        {
+            "authors": [
+                "Dominik Köppl",
+                "Daiki Hashimoto",
+                "Diptarama Hendrian",
+                "Ayumi Shinohara"
+            ],
+            "title": "In-Place Bijective Burrows-Wheeler Transforms",
+            "conference_name": "the 31st Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2020",
+            "conference_link": "https://cpm2020.compute.dtu.dk/",
+            "pages": "21:1–15",
+            "city": "Copenhagen (online)",
+            "country": "Denmark",
+            "date": "17–19 June",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2020.21",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2004.12590"
+        },
+        {
+            "authors": [
+                "Katsuhito Nakashima",
+                "Noriki Fujisato",
+                "Diptarama Hendrian",
+                "Yuto Nakashima",
+                "Ryo Yoshinaka",
+                "Shunsuke Inenaga",
+                "Hideo Bannai",
+                "Ayumi Shinohara",
+                "Masayuki Takeda"
+            ],
+            "title": "DAWGs for parameterized matching: online construction and related indexing structures",
+            "conference_name": "the 31st Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2020",
+            "conference_link": "https://cpm2020.compute.dtu.dk/",
+            "pages": "26:1–14",
+            "city": "Copenhagen (online)",
+            "country": "Denmark",
+            "date": "17–19 June",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2020.26",
+            "arxiv_link": "https://arxiv.org/abs/2002.06786v2"
+        },
+        {
+            "authors": [
+                "Satoshi Kobayashi",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Fast and linear-time string matching algorithms based on the distances of q-gram occurrences",
+            "conference_name": "the 18th Symposium on Experimental Algorithms",
+            "conference_abbrv": "SEA 2020",
+            "conference_link": "http://www.sea2020.dmi.unict.it/",
+            "pages": "13:1–13",
+            "city": "Catania (online)",
+            "country": "Italy",
+            "date": "16–18 June",
+            "year": "2020",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.SEA.2020.13",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2002.08004 "
+        },
+        {
+            "authors": [
+                "Diptarama Hendrian"
+            ],
+            "title": "Generalized Dictionary Matching under Substring Consistent Equivalence Relations",
+            "conference_name": "the 14th International Conference and Workshop on Algorithms and Computation",
+            "conference_abbrv": "WALCOM 2020",
+            "conference_link": "https://www.comp.nus.edu.sg/~walcom20/",
+            "pages": "120–132",
+            "country": "Singapore (online)",
+            "date": "31 March–2 April",
+            "year": "2020",
+            "paper_link": "http://dx.doi.org/10.1007/978-3-030-39881-1_11",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1909.07538"
+        },
+        {
+            "authors": [
+                "Hiroaki Naganuma",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara",
+                "Naoki Kobayashi"
+            ],
+            "title": "Grammar compression with probabilistic context free grammar",
+            "conference_name": "2020 Data Compression Conference",
+            "conference_abbrv": "DCC 2020",
+            "conference_link": "https://www.cs.brandeis.edu/~dcc/index.html",
+            "pages": "386",
+            "city": "Snowbird (online)",
+            "country": "USA",
+            "date": "24–27 March",
+            "year": "2020",
+            "paper_link": "http://dx.doi.org/10.1109/DCC47342.2020.00093",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2003.08097"
+        },
+        {
+            "authors": [
+                "Davaajav Jargalsaikhan",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Parallel duel-and-sweep algorithm for the order-preserving pattern matching",
+            "conference_name": "the 46th International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2020",
+            "conference_link": "http://cyprusconferences.org/sofsem2020/",
+            "pages": "211–222",
+            "city": "Limassol",
+            "country": "Cyprus",
+            "date": "20 January–24 January",
+            "year": "2020",
+            "paper_link": "http://dx.doi.org/10.1007/978-3-030-38919-2_18"
+        },
+        {
+            "authors": [
+                "Ryu Wakimoto",
+                "Satoshi Kobayashi",
+                "Yuki Igarashi",
+                "Davaajav Jargalsaikhan",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "AOBA: An Online Benchmark tool for Algorithms in stringology",
+            "conference_name": "the SOFSEM 2020 Student Research Forum",
+            "conference_abbrv": "SOFSEM 2020",
+            "conference_link": "http://cyprusconferences.org/sofsem2020/",
+            "pages": "1–12",
+            "city": "Limassol",
+            "country": "Cyprus",
+            "date": "20 January–24 January",
+            "year": "2020",
+            "paper_link": "http://ceur-ws.org/Vol-2568/paper1.pdf"
+        },
+        {
+            "authors": [
+                "Katsuhito Nakashima",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "An Extension of Linear-size Suffix Tries for Parameterized Strings",
+            "conference_name": "the SOFSEM 2020 Student Research Forum",
+            "conference_abbrv": "SOFSEM 2020",
+            "conference_link": "http://cyprusconferences.org/sofsem2020/",
+            "pages": "97–108",
+            "city": "Limassol",
+            "country": "Cyprus",
+            "date": "20 January–24 January",
+            "year": "2020",
+            "paper_link": "http://ceur-ws.org/Vol-2568/paper9.pdf",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1902.00216"
+        },
+        {
+            "authors": [
+                "Kaizaburo Chubachi",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Query Learning Algorithm for Residual Symbolic Finite Automata",
+            "conference_name": "the 10th International Symposium on Games, Automata, Logics, and Formal Verification",
+            "conference_abbrv": "GandALF 2019",
+            "conference_link": "https://gandalf2019.sciencesconf.org/",
+            "pages": "140–153",
+            "city": "Bordeaux",
+            "country": "France",
+            "date": "2–3 September",
+            "year": "2019",
+            "paper_link": "http://dx.doi.org/10.4204/EPTCS.305.10",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1902.07417"
+        },
+        {
+            "authors": [
+                "Satoshi Kobayashi",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "An improvement of the Franek-Jennings-Smyth pattern matching algorithm",
+            "conference_name": "the Prague Stringology Conference 2019",
+            "conference_abbrv": "PSC 2019",
+            "conference_link": "http://www.stringology.org/event/2019/",
+            "pages": "56–68",
+            "city": "Prague",
+            "country": "Czech Republic",
+            "date": "26–28 August",
+            "year": "2019",
+            "paper_link": "http://www.stringology.org/event/2019/p06.html"
+        },
+        {
+            "authors": [
+                "Diptarama Hendrian",
+                "Takuya Takagi",
+                "Shunsuke Inenaga"
+            ],
+            "title": "Online Algorithms for Constructing Linear-size Suffix Trie",
+            "conference_name": "the 30th Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2019",
+            "conference_link": "http://cpm2019.di.unipi.it/",
+            "pages": "30:1–19",
+            "city": "Pisa",
+            "country": "Italy",
+            "date": "18–20 June",
+            "year": "2019",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2019.30",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1901.10045"
+        },
+        {
+            "authors": [
+                "Yuta Fujishige",
+                "Takuya Takagi",
+                "Diptarama Hendrian"
+            ],
+            "title": "Truncated DAWGs and their application to minimal absent word problem",
+            "conference_name": "the 25th International Symposium on String Processing and Information Retrieval",
+            "conference_abbrv": "SPIRE 2018",
+            "conference_link": "http://eventos.spc.org.pe/spire2018/",
+            "pages": "139–152",
+            "city": "Lima",
+            "country": "Peru",
+            "date": "9–11 October",
+            "year": "2018",
+            "paper_link": "https://doi.org/10.1007/978-3-030-00479-8_12"
+        },
+        {
+            "authors": [
+                "Shintaro Narisada",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Linear-Time Online Algorithm Inferring the Shortest Path from a Walk",
+            "conference_name": "the 25th International Symposium on String Processing and Information Retrieval",
+            "conference_abbrv": "SPIRE 2018",
+            "conference_link": "http://eventos.spc.org.pe/spire2018/",
+            "pages": "311–324",
+            "city": "Lima",
+            "country": "Peru",
+            "date": "9–11 October",
+            "year": "2018",
+            "paper_link": "https://doi.org/10.1007/978-3-030-00479-8_25",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1806.09806"
+        },
+        {
+            "authors": [
+                "Yuki Nozaki",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Enumeration of Cryptarithms Using Deterministic Finite Automata",
+            "conference_name": "the 23rd International Conference on Implementation and Applications of Automata",
+            "conference_abbrv": "CIAA 2018",
+            "conference_link": "http://www.smcs.upei.ca/ciaa2018/",
+            "pages": "286–298",
+            "city": "Charlottetown",
+            "country": "Canada",
+            "date": "30 July–2 August",
+            "year": "2018",
+            "paper_link": "https://doi.org/10.1007/978-3-319-94812-6_24"
+        },
+        {
+            "authors": [
+                "Yuki Igarashi",
+                "Diptarama",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "New Variants of Pattern Matching with Constants and Variables",
+            "conference_name": "the 44th International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2018",
+            "conference_link": "http://www.sofsem.cz/sofsem18/",
+            "pages": "611–623",
+            "city": "Krems an der Donau",
+            "country": "Austria",
+            "date": "29 January–2 February",
+            "year": "2018",
+            "paper_link": "https://doi.org/10.1007/978-3-319-73117-9_43",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1705.09504"
+        },
+        {
+            "authors": [
+                "Davaajav Jargalsaikhan",
+                "Diptarama",
+                "Yohei Ueki",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Duel and sweep algorithm for order-preserving pattern matching",
+            "conference_name": "the 44th International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2018",
+            "conference_link": "http://www.sofsem.cz/sofsem18/",
+            "pages": "624–635",
+            "city": "Krems an der Donau",
+            "country": "Austria",
+            "date": "29 January–2 February",
+            "year": "2018",
+            "paper_link": "https://doi.org/10.1007/978-3-319-73117-9_44"
+        },
+        {
+            "authors": [
+                "Hayato Mizumoto",
+                "Shota Todoroki",
+                "Diptarama",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "An efficient query learning algorithm for zero-suppressed binary decision diagrams",
+            "conference_name": "the 28th International Conference on Algorithmic Learning Theory",
+            "conference_abbrv": "ALT 2017",
+            "conference_link": "http://www.comp.nus.edu.sg/~fstephan/alt/alt2017/",
+            "pages": "360–371",
+            "city": "Kyoto",
+            "country": "Japan",
+            "date": "15–17 October",
+            "year": "2017",
+            "paper_link": "http://proceedings.mlr.press/v76/mizumoto17a/mizumoto17a.pdf"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Takashi Katsura",
+                "Yuhei Otomo",
+                "Kazuyuki Narisawa",
+                "Ayumi Shinohara"
+            ],
+            "title": "Position Heaps for Parameterized Strings",
+            "conference_name": "the 28th Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2017",
+            "conference_link": "http://cpm2017.mimuw.edu.pl/",
+            "pages": "8:1–13",
+            "city": "Warsaw",
+            "country": "Poland",
+            "date": "4–6 July",
+            "year": "2017",
+            "paper_link": "http://dx.doi.org/10.4230/LIPIcs.CPM.2017.8"
+        },
+        {
+            "authors": [
+                "Yohei Ueki",
+                "Diptarama",
+                "Masatoshi Kurihara",
+                "Yoshiaki Matsuoka",
+                "Kazuyuki Narisawa",
+                "Ryo Yoshinaka",
+                "Hideo Bannai",
+                "Shunsuke Inenaga",
+                "Ayumi Shinohara"
+            ],
+            "title": "Longest Common Subsequence in at Least k Length Order-isomorphic Substrings",
+            "conference_name": "the 43rd International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2017",
+            "conference_link": "http://www.sofsem.cz/sofsem17/",
+            "pages": "363–374",
+            "city": "Limerick",
+            "country": "Ireland",
+            "date": "16–20 January",
+            "year": "2017",
+            "paper_link": "http://dx.doi.org/10.1007/978-3-319-51963-0_28",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.1609.03668"
+        },
+        {
+            "authors": [
+                "Shintaro Narisada",
+                "Diptarama",
+                "Kazuyuki Narisawa",
+                "Shunsuke Inenaga",
+                "Ayumi Shinohara"
+            ],
+            "title": "Computing longest single-arm-gapped palindromes in a string",
+            "conference_name": "the 43rd International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2017",
+            "conference_link": "http://www.sofsem.cz/sofsem17/",
+            "pages": "375–386",
+            "city": "Limerick",
+            "country": "Ireland",
+            "date": "16–20 January",
+            "year": "2017",
+            "paper_link": "http://dx.doi.org/10.1007/978-3-319-51963-0_29",
+            "arxiv_link": "https://arxiv.org/abs/1609.03000v2"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "AC-Automaton Update Algorithm for Semi-dynamic Dictionary Matching",
+            "conference_name": "the 23rd International Symposium on String Processing and Information Retrieval",
+            "conference_abbrv": "SPIRE 2016",
+            "conference_link": "https://sites.google.com/site/spire2016jp/home",
+            "pages": "110–121",
+            "city": "Beppu",
+            "country": "Japan",
+            "date": "18–20 October",
+            "year": "2016",
+            "paper_link": "http://dx.doi.org/10.1007/978-3-319-46049-9_11"
+        },
+        {
+            "authors": [
+                "Ichinari Sato",
+                "Kaizaburo Chubachi",
+                "Diptarama"
+            ],
+            "title": "Evaluation of Machine Learning Methods on SPiCe",
+            "conference_name": "the 13th International Conference on Grammatical Inference",
+            "conference_abbrv": "ICGI 2016",
+            "conference_link": "http://icgi2016.tudelft.nl/",
+            "pages": "149–153",
+            "city": "Delft",
+            "country": "Netherland",
+            "date": "5–7 October",
+            "year": "2016",
+            "paper_link": "http://www.jmlr.org/proceedings/papers/v57/sato16.html"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Fast Full Permuted Pattern Matching Algorithms on Multi-track Strings",
+            "conference_name": "the Prague Stringology Conference 2016",
+            "conference_abbrv": "PSC 2016",
+            "conference_link": "http://www.stringology.org/event/2016/",
+            "pages": "7–21",
+            "city": "Prague",
+            "country": "Czech Republic",
+            "date": "29–31 August",
+            "year": "2016",
+            "paper_link": "http://www.stringology.org/event/2016/p02.html"
+        },
+        {
+            "authors": [
+                "Ichinari Sato",
+                "Diptarama",
+                "Ayumi Shinohara"
+            ],
+            "title": "Visualization and Analysis of Electrical Energy Consumption in Laboratories",
+            "conference_name": "the 5th IIAI International Congress on Advanced Applied Informatics",
+            "conference_abbrv": "IIAI-AAI 2016",
+            "conference_link": "http://aai2016.iaiai.org/",
+            "pages": "509–512",
+            "city": "Kumamoto",
+            "country": "Japan",
+            "date": "10–14 July",
+            "year": "2016",
+            "paper_link": "http://dx.doi.org/10.1109/IIAI-AAI.2016.194"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "QBF Encoding of Generalized Tic-Tac-Toe",
+            "conference_name": "the 4th International Workshop on Quantified Boolean Formulas",
+            "conference_abbrv": "QBF 2016",
+            "conference_link": "http://fmv.jku.at/qbf16/index.html",
+            "pages": "14–26",
+            "city": "Bordeaux",
+            "country": "France",
+            "date": "4 July",
+            "year": "2016",
+            "paper_link": "http://ceur-ws.org/Vol-1719/paper1.pdf"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Yohei Ueki",
+                "Kazuyuki Narisawa",
+                "Ayumi Shinohara"
+            ],
+            "title": "KMP Based Pattern Matching Algorithms for Multi-Track Strings",
+            "conference_name": "Student Research Forum Papers and Posters at SOFSEM2016",
+            "conference_abbrv": "SOFSEM 2016",
+            "conference_link": "http://www.sofsem.cz/sofsem16",
+            "pages": "100–107",
+            "city": "Harrachov",
+            "country": "Czech Republic",
+            "date": "23–28 January",
+            "year": "2016",
+            "paper_link": "http://ceur-ws.org/Vol-1548/100-Diptarama.pdf"
+        },
+        {
+            "authors": [
+                "Diptarama",
+                "Kazuyuki Narisawa",
+                "Ayumi Shinohara"
+            ],
+            "title": "Drawing Strategies for Generalized Tic-Tac-Toe (P, Q)",
+            "conference_name": "the International Conference on Progress in Applied Mathematics in Sciences and Engineering",
+            "conference_abbrv": "PIAMSE",
+            "pages": "1–8",
+            "city": "Bali",
+            "country": "Indonesia",
+            "date": "29 September–1 October",
+            "year": "2015",
+            "paper_link": "http://dx.doi.org/10.1063/1.4940269"
+        }
+    ],
+    "misc": [
+        {
+            "authors": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
