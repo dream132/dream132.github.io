@@ -1,4 +1,4 @@
-$.getJSON("https://www.iss.is.tohoku.ac.jp/~diptarama/publication.json", function (json) {
+$.getJSON("/publication.json", function (json) {
     console.log("JSON Data received, name is " + json.name);
 
     var x = "";
