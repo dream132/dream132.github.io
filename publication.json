@@ -153,6 +153,7 @@
             "country": "Chile",
             "date": "8–10 November",
             "year": "2022",
+            "open": false,
             "paper_link": "https://doi.org/10.1007/978-3-031-20643-6_6",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2206.15100"
         },
