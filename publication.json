@@ -148,10 +148,12 @@
             "conference_name": "the 29th International Symposium on String Processing and Information Retrieval",
             "conference_abbrv": "SPIRE 2022",
             "conference_link": "http://spire2022.inf.udec.cl/",
+            "pages": "70–85",
             "city": "Concepción",
             "country": "Chile",
             "date": "8–10 November",
             "year": "2022",
+            "paper_link": "https://doi.org/10.1007/978-3-031-20643-6_6",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2206.15100"
         },
         {
