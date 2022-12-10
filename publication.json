@@ -20,6 +20,7 @@
             "volume": "933",
             "pages": "21–42",
             "year": "2022",
+            "open": false,
             "paper_link": "https://doi.org/10.1016/j.tcs.2022.09.008",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2002.06786"
         },
@@ -37,6 +38,7 @@
             "volume": "82",
             "pages": "1346–1377",
             "year": "2020",
+            "open": false,
             "paper_link": "https://doi.org/10.1007/s00453-019-00646-w",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1507.07622"
         },
@@ -55,6 +57,7 @@
             "volume": "812",
             "pages": "160–173",
             "year": "2020",
+            "open": false,
             "paper_link": "https://doi.org/10.1016/j.tcs.2019.10.025",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1609.03000"
         },
@@ -72,6 +75,7 @@
             "volume": "812",
             "pages": "187–202",
             "year": "2020",
+            "open": false,
             "paper_link": "https://doi.org/10.1016/j.tcs.2019.10.029",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1806.09806"
         },
@@ -90,6 +94,7 @@
             "number": "4",
             "pages": "73:1–20",
             "year": "2019",
+            "open": true,
             "paper_link": "https://doi.org/10.3390/a12040073"
         },
         {
@@ -106,6 +111,7 @@
             "volume": "792",
             "pages": "161–172",
             "year": "2019",
+            "open": false,
             "paper_link": "https://doi.org/10.1016/j.tcs.2018.04.016",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1710.03395"
         },
@@ -125,6 +131,7 @@
             "number": "1",
             "pages": "53–66",
             "year": "2017",
+            "open": true,
             "paper_link": "http://www.iaiai.org/journals/index.php/IJIRM/article/view/113"
         }
     ],
@@ -157,10 +164,13 @@
             "conference_name": "the 29th International Symposium on String Processing and Information Retrieval",
             "conference_abbrv": "SPIRE 2022",
             "conference_link": "http://spire2022.inf.udec.cl/",
+            "pages": "70–85",
             "city": "Concepción",
             "country": "Chile",
             "date": "8–10 November",
             "year": "2022",
+            "open": false,
+            "paper_link": "https://doi.org/10.1007/978-3-031-20643-6_6",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2206.15100"
         },
         {
@@ -179,6 +189,7 @@
             "country": "Czech Republic",
             "date": "27–29 June",
             "year": "2022",
+            "open": true,
             "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2022.28",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2202.13284"
         },
@@ -197,6 +208,7 @@
             "city": "Online",
             "date": "23–27 August",
             "year": "2021",
+            "open": true,
             "paper_link": "https://proceedings.mlr.press/v153/suzuki21a.html"
         },
         {
@@ -234,6 +246,7 @@
             "country": "Denmark",
             "date": "17–19 June",
             "year": "2020",
+            "open": true,
             "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2020.21",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2004.12590"
         },
@@ -258,6 +271,7 @@
             "country": "Denmark",
             "date": "17–19 June",
             "year": "2020",
+            "open": true,
             "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2020.26",
             "arxiv_link": "https://arxiv.org/abs/2002.06786v2"
         },
@@ -277,6 +291,7 @@
             "country": "Italy",
             "date": "16–18 June",
             "year": "2020",
+            "open": true,
             "paper_link": "https://doi.org/10.4230/LIPIcs.SEA.2020.13",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2002.08004 "
         },
@@ -352,6 +367,7 @@
             "country": "Cyprus",
             "date": "20 January–24 January",
             "year": "2020",
+            "open": true,
             "paper_link": "http://ceur-ws.org/Vol-2568/paper1.pdf"
         },
         {
@@ -370,6 +386,7 @@
             "country": "Cyprus",
             "date": "20 January–24 January",
             "year": "2020",
+            "open": true,
             "paper_link": "http://ceur-ws.org/Vol-2568/paper9.pdf",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1902.00216"
         },
@@ -389,6 +406,7 @@
             "country": "France",
             "date": "2–3 September",
             "year": "2019",
+            "open": true,
             "paper_link": "http://dx.doi.org/10.4204/EPTCS.305.10",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1902.07417"
         },
@@ -408,6 +426,7 @@
             "country": "Czech Republic",
             "date": "26–28 August",
             "year": "2019",
+            "open": true,
             "paper_link": "http://www.stringology.org/event/2019/p06.html"
         },
         {
@@ -425,6 +444,7 @@
             "country": "Italy",
             "date": "18–20 June",
             "year": "2019",
+            "open": true,
             "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2019.30",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1901.10045"
         },
@@ -537,6 +557,7 @@
             "country": "Japan",
             "date": "15–17 October",
             "year": "2017",
+            "open": true,
             "paper_link": "http://proceedings.mlr.press/v76/mizumoto17a/mizumoto17a.pdf"
         },
         {
@@ -556,6 +577,7 @@
             "country": "Poland",
             "date": "4–6 July",
             "year": "2017",
+            "open": true,
             "paper_link": "http://dx.doi.org/10.4230/LIPIcs.CPM.2017.8"
         },
         {
@@ -634,6 +656,7 @@
             "country": "Netherland",
             "date": "5–7 October",
             "year": "2016",
+            "open": true,
             "paper_link": "http://www.jmlr.org/proceedings/papers/v57/sato16.html"
         },
         {
@@ -651,6 +674,7 @@
             "country": "Czech Republic",
             "date": "29–31 August",
             "year": "2016",
+            "open": true,
             "paper_link": "http://www.stringology.org/event/2016/p02.html"
         },
         {
@@ -685,6 +709,7 @@
             "country": "France",
             "date": "4 July",
             "year": "2016",
+            "open": true,
             "paper_link": "http://ceur-ws.org/Vol-1719/paper1.pdf"
         },
         {
@@ -703,6 +728,7 @@
             "country": "Czech Republic",
             "date": "23–28 January",
             "year": "2016",
+            "open": true,
             "paper_link": "http://ceur-ws.org/Vol-1548/100-Diptarama.pdf"
         },
         {
@@ -719,6 +745,7 @@
             "country": "Indonesia",
             "date": "29 September–1 October",
             "year": "2015",
+            "open": true,
             "paper_link": "http://dx.doi.org/10.1063/1.4940269"
         }
     ],

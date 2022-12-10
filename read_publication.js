@@ -65,6 +65,9 @@ $.getJSON("/publication.json", function (json) {
         x += "</br>";
         if (json.journal_papers[i].paper_link != null || json.journal_papers[i].arxiv_link != null) {
             if (json.journal_papers[i].paper_link != null) {
+                if (json.journal_papers[i].open == true){
+                    x += "<img src=\"oa.svg\" height=\"15\" /> ";
+                }
                 x += "<a href=\"" + json.journal_papers[i].paper_link + "\">[paper]</a>";
             }
             if (json.journal_papers[i].arxiv_link != null) {
@@ -147,6 +150,9 @@ $.getJSON("/publication.json", function (json) {
         y += "</br>";
         if (json.conference_papers[i].paper_link != null || json.conference_papers[i].arxiv_link != null) {
             if (json.conference_papers[i].paper_link != null) {
+                if (json.conference_papers[i].open == true){
+                    y += "<img src=\"oa.svg\" height=\"15\" /> ";
+                }
                 y += "<a href=\"" + json.conference_papers[i].paper_link + "\">[paper]</a>";
             }
             if (json.conference_papers[i].arxiv_link != null) {
