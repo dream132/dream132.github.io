@@ -131,6 +131,22 @@
     "conference_papers": [
         {
             "authors": [
+                "Koshiro Kumagai",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Inferring Strings from Position Heaps in Linear Time",
+            "conference_name": "the 17th International Conference and Workshops on Algorithms and Computation",
+            "conference_abbrv": "WALCOM 2023",
+            "conference_link": "https://www.walcom2023.conf.nycu.edu.tw/",
+            "city": "Hsinchu",
+            "country": "Taiwan",
+            "date": "22–24 March",
+            "year": "2023",
+        },
+        {
+            "authors": [
                 "Daiki Hashimoto",
                 "Diptarama Hendrian",
                 "Dominik Köppl",
