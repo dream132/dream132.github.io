@@ -138,6 +138,23 @@
     "conference_papers": [
         {
             "authors": [
+                "Koshiro Kumagai",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Inferring Strings from Position Heaps in Linear Time",
+            "conference_name": "the 17th International Conference and Workshops on Algorithms and Computation",
+            "conference_abbrv": "WALCOM 2023",
+            "conference_link": "https://www.walcom2023.conf.nycu.edu.tw/",
+            "city": "Hsinchu",
+            "country": "Taiwan",
+            "date": "22–24 March",
+            "year": "2023",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2209.12405"
+        },
+        {
+            "authors": [
                 "Daiki Hashimoto",
                 "Diptarama Hendrian",
                 "Dominik Köppl",
@@ -148,10 +165,13 @@
             "conference_name": "the 29th International Symposium on String Processing and Information Retrieval",
             "conference_abbrv": "SPIRE 2022",
             "conference_link": "http://spire2022.inf.udec.cl/",
+            "pages": "70–85",
             "city": "Concepción",
             "country": "Chile",
             "date": "8–10 November",
             "year": "2022",
+            "open": false,
+            "paper_link": "https://doi.org/10.1007/978-3-031-20643-6_6",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2206.15100"
         },
         {
