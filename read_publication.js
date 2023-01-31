@@ -1,6 +1,4 @@
 $.getJSON("/publication.json", function (json) {
-    console.log("JSON Data received, name is " + json.name);
-
     var x = "";
 
     for (i in json.journal_papers) {
