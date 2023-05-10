@@ -147,10 +147,12 @@
             "conference_name": "the 17th International Conference and Workshops on Algorithms and Computation",
             "conference_abbrv": "WALCOM 2023",
             "conference_link": "https://www.walcom2023.conf.nycu.edu.tw/",
+            "pages": "115–126",
             "city": "Hsinchu",
             "country": "Taiwan",
             "date": "22–24 March",
             "year": "2023",
+            "paper_link": "https://doi.org/10.1007/978-3-031-27051-2_11",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2209.12405"
         },
         {
