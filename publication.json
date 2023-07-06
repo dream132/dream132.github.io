@@ -147,10 +147,12 @@
             "conference_name": "the 16th International Conference on Grammatical Inference",
             "conference_abbrv": "ICGI 2023",
             "conference_link": "http://www.fsr.ac.ma/icgi2023/",
+            "pages": "23–34",
             "city": "Rabat",
             "country": "Morocco",
             "date": "10–13 July",
-            "year": "2023"
+            "year": "2023",
+            "paper_link": "https://proceedings.mlr.press/v217/numaya23a.html"
         },
         {
             "authors": [
