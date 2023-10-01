@@ -147,10 +147,12 @@
             "conference_name": "the 30th International Symposium on String Processing and Information Retrieval",
             "conference_abbrv": "SPIRE 2023",
             "conference_link": "http://spire2023.isti.cnr.it/",
+            "pages": "271–283",
             "city": "Pisa",
             "country": "Italy",
             "date": "26–28 September",
             "year": "2023",
+            "paper_link": "https://doi.org/10.1007/978-3-031-43980-3_22",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2306.10714"
         },
         {
