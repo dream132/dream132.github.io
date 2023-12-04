@@ -138,6 +138,22 @@
     "conference_papers": [
         {
             "authors": [
+                "Yoshito Kawasaki",
+                "Diptarama Hendrian",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Query Learning of Minimal Deterministic Symbolic Finite Automata Separating Regular Languages",
+            "conference_name": "the 49th International Conference on Current Trends in Theory and Practice of Computer Science",
+            "conference_abbrv": "SOFSEM 2024",
+            "conference_link": "https://www.uni-trier.de/index.php?id=90670&L=2",
+            "city": "Cochem",
+            "country": "Germany",
+            "date": "19–23 February",
+            "year": "2024"
+        },
+        {
+            "authors": [
                 "Haruki Ideguchi",
                 "Diptarama Hendrian",
                 "Ryo Yoshinaka",
