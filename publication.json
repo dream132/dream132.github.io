@@ -111,7 +111,7 @@
             "volume": "792",
             "pages": "161–172",
             "year": "2019",
-            "open": false,
+            "open": true,
             "paper_link": "https://doi.org/10.1016/j.tcs.2018.04.016",
             "arxiv_link": "https://doi.org/10.48550/arXiv.1710.03395"
         },
