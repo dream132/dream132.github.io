@@ -147,10 +147,12 @@
             "conference_name": "the 49th International Conference on Current Trends in Theory and Practice of Computer Science",
             "conference_abbrv": "SOFSEM 2024",
             "conference_link": "https://www.uni-trier.de/index.php?id=90670&L=2",
+            "pages": "340–354",
             "city": "Cochem",
             "country": "Germany",
             "date": "19–23 February",
-            "year": "2024"
+            "year": "2024",
+            "paper_link": "https://doi.org/10.1007/978-3-031-52113-3_24",
         },
         {
             "authors": [
