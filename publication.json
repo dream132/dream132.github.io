@@ -138,6 +138,42 @@
     "conference_papers": [
         {
             "authors": [
+                "Kento Iseri",
+                "Tomohiro I",
+                "Diptarama Hendrian",
+                "Dominik Köppl",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Breaking a Barrier in Constructing Compact Indexes for Parameterized Pattern Matching",
+            "conference_name": "the 51st International Colloquium on Automata, Languages and Programming",
+            "conference_abbrv": "ICALP 2024",
+            "conference_link": "https://compose.ioc.ee/icalp2024/",
+            "city": "Tallinn",
+            "country": "Estonia",
+            "date": "6–7 July",
+            "year": "2024",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2308.05977"
+        },
+        {
+            "authors": [
+                "Diptarama Hendrian",
+                "Dominik Köppl",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Algorithms for Galois Words: Detection, Factorization, and Rotation",
+            "conference_name": "the 35th Annual Symposium on Combinatorial Pattern Matching",
+            "conference_abbrv": "CPM 2024",
+            "conference_link": "https://cpm2024.github.io/",
+            "city": "Fukuoka",
+            "country": "Japan",
+            "date": "25–27 June",
+            "year": "2024",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2403.02636"
+        },
+        {
+            "authors": [
                 "Yoshito Kawasaki",
                 "Diptarama Hendrian",
                 "Ryo Yoshinaka",
