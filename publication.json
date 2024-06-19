@@ -166,10 +166,12 @@
             "conference_name": "the 35th Annual Symposium on Combinatorial Pattern Matching",
             "conference_abbrv": "CPM 2024",
             "conference_link": "https://cpm2024.github.io/",
+            "pages": "18:1–18:16",
             "city": "Fukuoka",
             "country": "Japan",
             "date": "25–27 June",
             "year": "2024",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.CPM.2024.18",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2403.02636"
         },
         {
