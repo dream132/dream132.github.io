@@ -138,6 +138,24 @@
     "conference_papers": [
         {
             "authors": [
+                "Hideo Bannai",
+                "Mitsuru Funakoshi",
+                "Diptarama Hendrian",
+                "Myuji Matsuda",
+                "Simon Puglisi"
+            ],
+            "title": "Height-bounded Lempel-Ziv encodings",
+            "conference_name": "The European Symposium on Algorithms 2024",
+            "conference_abbrv": "ESA 2024",
+            "conference_link": "https://algo-conference.org/2024/esa/",
+            "city": "Egham",
+            "country": "United Kingdom",
+            "date": "2–4 September",
+            "year": "2024",
+            "arxiv_link": "https://doi.org/10.48550/arXiv.2403.08209"
+        },
+        {
+            "authors": [
                 "Kento Iseri",
                 "Tomohiro I",
                 "Diptarama Hendrian",
@@ -149,10 +167,12 @@
             "conference_name": "the 51st International Colloquium on Automata, Languages and Programming",
             "conference_abbrv": "ICALP 2024",
             "conference_link": "https://compose.ioc.ee/icalp2024/",
+            "pages": "89:1–89:19",
             "city": "Tallinn",
             "country": "Estonia",
             "date": "6–7 July",
             "year": "2024",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.ICALP.2024.89",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2308.05977"
         },
         {
