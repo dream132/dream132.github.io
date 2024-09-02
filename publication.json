@@ -3,6 +3,21 @@
     "journal_papers": [
         {
             "authors": [
+                "Davaajav Jargalsaikhan",
+                "Diptarama Hendrian",
+                "Yohei Ueki",
+                "Ryo Yoshinaka",
+                "Ayumi Shinohara"
+            ],
+            "title": "Serial and parallel algorithms for order-preserving pattern matching based on the duel-and-sweep paradigm",
+            "journal_name": "Acta Informatica",
+            "journal_link": "https://link.springer.com/journal/236",
+            "year": "2024",
+            "open": false,
+            "paper_link": "https://doi.org/10.1007/s00236-024-00464-w"
+        },
+        {
+            "authors": [
                 "Diptarama Hendrian",
                 "Takuya Takagi",
                 "Shunsuke Inenaga",
