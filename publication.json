@@ -148,10 +148,12 @@
             "conference_name": "The European Symposium on Algorithms 2024",
             "conference_abbrv": "ESA 2024",
             "conference_link": "https://algo-conference.org/2024/esa/",
+            "pages": "18:1–18:18",
             "city": "Egham",
             "country": "United Kingdom",
             "date": "2–4 September",
             "year": "2024",
+            "paper_link": "https://doi.org/10.4230/LIPIcs.ESA.2024.18",
             "arxiv_link": "https://doi.org/10.48550/arXiv.2403.08209"
         },
         {
